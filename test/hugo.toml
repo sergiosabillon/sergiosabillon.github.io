@@ -1,4 +1,4 @@
-baseURL = 'https://sergiosabillon.github.io/'
+baseURL = 'https://sergiosabillon.github.io/test/'
 languageCode = 'en-us'
 title = 'Sergio Sabillon'
 theme='hugo-coder'
