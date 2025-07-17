@@ -1,3 +1,3 @@
-[submodule "test/hugo-coder"]
+[submodule "test/themes/hugo-coder"]
 	path = test/themes/hugo-coder
 	url = https://github.com/luizdepra/hugo-coder.git
