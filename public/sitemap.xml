@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/gallery/</loc>
+    <loc>https://sergiosabillon.github.io/gallery/</loc>
     <lastmod>2025-07-15T22:54:34-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://sergiosabillon.github.io/</loc>
     <lastmod>2025-07-15T22:54:34-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/references/</loc>
+    <loc>https://sergiosabillon.github.io/references/</loc>
     <lastmod>2025-07-15T22:49:34-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>https://sergiosabillon.github.io/contact/</loc>
     <lastmod>2025-07-09T16:08:38-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://sergiosabillon.github.io/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://sergiosabillon.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://sergiosabillon.github.io/tags/</loc>
   </url>
 </urlset>
