@@ -1,13 +1,7 @@
 baseURL = 'https://sergiosabillon.github.io/'
 languageCode = 'en-us'
 title = 'Sergio Sabillon'
-theme='hugo-coder'
-colorScheme = "auto"
-hideColorSchemeToggle = false
-pygmentsStyle = "bw"
-pygmentsCodeFences = true
-pygmentsCodeFencesGuessSyntax = true
-
+theme = 'hugo-coder'
 
 [params]
 author="Sergio Sabillon"
@@ -45,3 +39,4 @@ url = "/references/"
 name = "Gallery"
 weight = 1
 url = "/gallery/"
+

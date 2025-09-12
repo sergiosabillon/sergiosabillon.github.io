@@ -10709,7 +10709,7 @@ figure {
     margin: 0; }
 
 .avatar img {
-  width: 30rem;
+  width: 20rem;
   height: auto;
   border-radius: 50%; }
   @media only screen and (max-width: 768px) {
@@ -10976,8 +10976,7 @@ figure {
     display: inline;
     text-align: center;
     font-weight: 700;
-    padding: 0 5px 0 5px;
-    margin: 0;
+    margin: 0 2px;
     text-align: center;
     width: 2.2rem; }
     .pagination li a {
@@ -11115,7 +11114,7 @@ figure {
     gap: 1rem;
     flex-wrap: true; }
   .mastodon-comment .comment-avatar img {
-    width: 10000rem; }
+    width: 6rem; }
   .mastodon-comment .content {
     flex-grow: 2; }
   .mastodon-comment .comment-author {
