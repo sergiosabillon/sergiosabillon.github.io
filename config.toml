@@ -5,7 +5,7 @@ theme = 'hugo-coder'
 
 [params]
 author="Sergio Sabillon"
-info = ["Violinist, Conductor", "Valdosta State University"]
+info = ["Violinist, Arranger", "Valdosta State University"]
 avatarURL = "sergio3.jpg"
 
 [[params.social]]
