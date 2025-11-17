@@ -6,7 +6,7 @@ aliases = ["about-us", "about-hugo", "contact"]
 author = "Sergio Sabillon"
 +++
 
-Sergio Sabillon is a violinist, arranger and educator born and raised in San Pedro Sula, Honduras. A son of educators, Sergio started his music education at the age of 6 years old and continued his formation at the Victoriano Lopez Music School. During his last year, he was selected along with an elusive group of musicians to perform at Pittsburg State University in Kansas. 
+Sergio Sabillon is a violinist, arranger and educator born and raised in San Pedro Sula, Honduras. A son of educators, Sergio started his music education at the age of 6 years old and continued his formation at the Victoriano Lopez Music School. During his last year, he was selected along with an elusive group of musicians to perform at Pittsburg State University in Kansas, U.S. 
 
 After music school, Sergio enrolled in college as a civil engineering student, where he was awarded with a full-tuition scholarship. but he couldn’t let go of his passion for music. He was chosen to tour with the Central American and Caribbean Youth Orchestra (OJCA) in Mexico and Germany. More than just a chance to perform, this experience allowed him to continue applying his talent with the violin. After, he spent 2017 with the Philarmonic Orchestra of Honduras, traveling to and from Tegucigalpa to continue his love of music. It was here at the end of this journey, Sergio decided he will pursue music as a permanent career.
 
